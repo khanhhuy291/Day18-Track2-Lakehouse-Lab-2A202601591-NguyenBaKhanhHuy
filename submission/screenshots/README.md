@@ -8,7 +8,7 @@ Tài liệu này cung cấp đầy đủ các minh chứng kỹ thuật phục v
 
 ## 1. Cấu Trúc Lưu Trữ Vật Lý Của Lakehouse (`_lakehouse/`)
 
-### 📌 Sơ Đồ Phân Cấp Kiến Trúc Tổng Quan:
+###  Sơ Đồ Phân Cấp Kiến Trúc Tổng Quan:
 
 ```text
 _lakehouse/
@@ -40,10 +40,10 @@ _lakehouse/
 
 ---
 
-### 📂 Toàn Bộ Cây Thư Mục Thực Tế (`tree _lakehouse/` — 101 Directories, 1152 Files):
+###  Toàn Bộ Cây Thư Mục Thực Tế (`tree _lakehouse/` — 101 Directories, 1152 Files):
 
 <details>
-<summary><b>👉 Nhấn vào đây để mở rộng / thu gọn toàn bộ cây thư mục chi tiết (1152 files)</b></summary>
+<summary><b> Nhấn vào đây để mở rộng / thu gọn toàn bộ cây thư mục chi tiết (1152 files)</b></summary>
 
 ```text
 khanhhuy@MacBook-Air-cua-Nguyen-84 Day18-Track2-Lakehouse-Lab-2A202601591-NguyenBaKhanhHuy % tree _lakehouse/
